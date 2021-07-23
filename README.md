@@ -1,6 +1,6 @@
 # Certs-Repo
 
-I have successfully complete the scrimba frontend developement career path. Which teaches and embed knowledge of the following
+I have successfully completed 70+ hours in the scrimba frontend developement career path. Which teaches and embed knowledge of the following
 
 * HTML / CSS
 * JavaScript
